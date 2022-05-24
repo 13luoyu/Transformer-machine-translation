@@ -1,0 +1,2 @@
+model_checkpoint_path: "transformer.param"
+all_model_checkpoint_paths: "transformer.param"
