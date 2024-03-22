@@ -12,5 +12,3 @@
 ![valid result](img/valid-result.png)
 
 环境：python3.8，tensorflow2.4.0  
-作者：Zhiyi Xue(薛志一) 华东师范大学  
-欢迎对该项目提出任何宝贵意见和建议。请留言或发邮件至xuezhiyi2000@163.com
